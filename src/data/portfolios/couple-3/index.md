@@ -1,7 +1,7 @@
 ---
 title: Special Occasions
 description: From new babies to new homes, mark life’s milestones with a card that says it all.
-heroImage: ./couple-4-square.jpg
+heroImage: ./boba.jpg
 date: "Apr 15 2024"
 location: Houston, Texas
 clients: [Julia, David]

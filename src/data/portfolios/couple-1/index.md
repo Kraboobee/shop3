@@ -1,7 +1,7 @@
 ---
 title: Birthday cards
 description: Make their special day even brighter with a card that feels as unique as they are.
-heroImage: ./couple-9-square.jpg
+heroImage: ./dragon.jpg
 date: "Aug 5 2024"
 location: Malibu, California
 clients: [Hannah, Marco]

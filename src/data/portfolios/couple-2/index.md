@@ -1,7 +1,7 @@
 ---
 title: Wedding Cards
 description: Elegant, timeless, and made to be cherished long after the “I do.”
-heroImage: ./couple-3-square.jpg
+heroImage: ./grumpy_cat.jpg
 date: "Jun 12 2024"
 location: Miami, Florida
 clients: [Alex, Jeff]
