@@ -51,20 +51,15 @@ import { Icon } from "astro-icon/components";
 					}
 				</ul>
 			</nav>
-			<div class="mx-1 mt-2 w-full px-4">
-				<Button variant="outline" class="w-full" href="https://cosmicthemes.com/themes/horizon/">
-					Get Horizon
-				</Button>
-			</div>
 		</div>
 	</div>
-
-	<!-- backdrop button to also close menu -->
-	<button
-		id="mobile-nav__backdrop"
-		class="mobile-nav__backdrop--fade-out fixed top-0 left-0 z-10 h-screen bg-black"
-		aria-label="close navigation menu"></button>
 </div>
+
+<!-- backdrop button to also close menu -->
+<button
+	id="mobile-nav__backdrop"
+	class="mobile-nav__backdrop--fade-out fixed top-0 left-0 z-10 h-screen bg-black"
+	aria-label="close navigation menu"></button>
 
 <script>
 	let mobileNavContainer: HTMLElement | null;
