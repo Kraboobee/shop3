@@ -6,7 +6,6 @@ export interface SiteDataProps {
 	author: {
 		name: string;
 		email: string;
-		twitter: string; // used for twitter cards when sharing a blog post on twitter
 	};
 	defaultImage: {
 		src: string;
@@ -16,17 +15,16 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Horizon Photography",
+	name: "Shop Krafti",
 	// Your website's title and description (meta fields)
-	title: "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
+	title: "Shop Krafti - Handmade cards for every occasion",
 	description:
-		"Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+		"Make your gifts feel truly special with beautiful handmade cards",
 	useViewTransitions: true,
 	// Your information!
 	author: {
-		name: "Cosmic Themes",
-		email: "creator@cosmicthemes.com",
-		twitter: "Cosmic_Themes",
+		name: "Kirstin Kleyn",
+		email: "kmkleyn@gmail.com",
 	},
 
 	// default image for meta tags if the page doesn't have an image already

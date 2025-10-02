@@ -1,6 +1,6 @@
 ---
-title: A high-class affair
-description: Relive the elegance of your venue and the grandeur of your wedding through artistic photography.
+title: Special Occasions
+description: From new babies to new homes, mark life’s milestones with a card that says it all.
 heroImage: ./couple-4-square.jpg
 date: "Apr 15 2024"
 location: Houston, Texas

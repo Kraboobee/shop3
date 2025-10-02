@@ -1,6 +1,6 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
+title: Birthday cards
+description: Make their special day even brighter with a card that feels as unique as they are.
 heroImage: ./couple-9-square.jpg
 date: "Aug 5 2024"
 location: Malibu, California

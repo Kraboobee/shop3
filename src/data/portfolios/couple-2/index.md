@@ -1,6 +1,6 @@
 ---
-title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
+title: Wedding Cards
+description: Elegant, timeless, and made to be cherished long after the “I do.”
 heroImage: ./couple-3-square.jpg
 date: "Jun 12 2024"
 location: Miami, Florida
